@@ -4,12 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f05fd58e-a799-4c25-afb8-4c6545fb5605" name="Changes" comment="" />
+    <list default="true" id="f05fd58e-a799-4c25-afb8-4c6545fb5605" name="Changes" comment="main commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "sonimk009"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sonimk009/github-inttije-damo.git",
+    "accountId": "f4609095-369b-4f7d-a488-e0d87d7f095e"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -22,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/ABC/IdeaProjects/github-damo/src/main/java/org/example/Main.java"
   }
@@ -35,7 +51,20 @@
       <option name="presentableId" value="Default" />
       <updated>1737538034926</updated>
     </task>
+    <task id="LOCAL-00001" summary="main commit">
+      <option name="closed" value="true" />
+      <created>1737538148111</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737538148111</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="main commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="main commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
